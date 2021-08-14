@@ -1,0 +1,19 @@
+{
+    "ruas": [
+        {
+            "id": 1, 
+            "name": "A",
+            "avatar": "a.jpeg"
+        },
+        {
+            "id": 2, 
+            "name": "B",
+            "avatar": "b.jpeg"
+        },
+        {
+            "id": 3, 
+            "name": "C",
+            "avatar": "c.jpeg"
+    }        
+    ]
+}
